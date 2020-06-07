@@ -1,3 +1,5 @@
+sbo
+
 # Classical Aerodynamics with Python
 
 [![Version](https://img.shields.io/badge/version-1.0-blue.svg)](None)
